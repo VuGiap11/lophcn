@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\lophinhchunhat\bin\Debug\lophinhchunhat.exe.config
+C:\Users\tuan\Desktop\lophinhchunhat\bin\Debug\lophinhchunhat.exe
+C:\Users\tuan\Desktop\lophinhchunhat\bin\Debug\lophinhchunhat.pdb
+C:\Users\tuan\Desktop\lophinhchunhat\obj\Debug\lophinhchunhat.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\lophinhchunhat\obj\Debug\lophinhchunhat.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\lophinhchunhat\obj\Debug\lophinhchunhat.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\lophinhchunhat\obj\Debug\lophinhchunhat.exe
+C:\Users\tuan\Desktop\lophinhchunhat\obj\Debug\lophinhchunhat.pdb
